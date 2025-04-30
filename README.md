@@ -11,4 +11,4 @@ The .py scripts that have the `DecoupleNET` prefix are standalone scripts which 
 
 The .py scripts that have the `predictions` suffix are standalone scripts which can be used only to view predictions on pre-trained models.
 
-NB: All pre-trained models are stored in the `saved_model` directory, hence that must also be downloaded for the .py scripts to be able to load the pre-trained models. 
+NB: All pre-trained models are stored in the `saved_model` directory, hence it must also be downloaded for the .py scripts to be able to load the pre-trained models. 
